@@ -7,6 +7,8 @@ Internet is required while apllying this cookbook.
 Requirements
 ============
 
+Internet is required.
+ 
 Platform
 --------
 
@@ -21,4 +23,4 @@ apply setup_hadoop recipe on node.
 Author
 ==================
 
-Author:: Deepak Sihag (<sihag.deepak@gmail.com>)
+Deepak Sihag (<sihag.deepak@gmail.com>)
