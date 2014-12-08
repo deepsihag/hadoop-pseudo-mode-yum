@@ -2,7 +2,7 @@
 # hadoop-pseudo-mode Cookbook Attributes
 #
 
-
+# adding a comment to test
 # Hadoop replication factor
 default['hdfs_replication'] = 1
 
